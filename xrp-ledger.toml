@@ -1,0 +1,24 @@
+[[ISSUERS]]
+address = "rPXFg78B1b4ZSisfdibXztT5kPmp5HTDXe"
+name = "ATOMToken"
+
+[[TOKENS]]
+issuer = "rPXFg78B1b4ZSisfdibXztT5kPmp5HTDXe"
+currency = "ATMT"
+name = "ATOMToken"
+desc = "ATOMToken (ATMT) is a utility token used within the Arnilla Studios NFT ecosystem."
+icon = "https://uploads-ssl.webflow.com/62417359684a30fba935654b/62417d2066f043bb8728cc93_C5581764-71C6-4CD9-9D90-C7257F5ED383-p-500.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.arnillastudios.com/"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.arnillastudios.com/"
+type = "website"
+title = "Token Info Dashboard"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com/arnillastudios"
+type = "socialmedia"
